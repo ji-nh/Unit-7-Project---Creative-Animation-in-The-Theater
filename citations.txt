@@ -1,0 +1,26 @@
+
+/*
+* I got my clownfish from aquarium of the pacific
+* https://www.aquariumofpacific.org/onlinelearningcenter/species/clown_anemonefish
+*/
+
+/*
+* I got my trout from fly fisherman
+* https://www.flyfisherman.com/editorial/all-about-rainbow-trout/454217
+*/
+
+/*
+* I got my goldfish from Goldfish - Hobbyist 
+* https://www.mysis.com/hobbyist/species/goldfish/
+*/
+
+
+/*
+* I got my bubble pop sound effect from pixabay
+* https://pixabay.com/sound-effects/search/bubble/
+*/
+
+/*
+*I used incorrect method signatures and unsupported classes in the Code.org Theater library and used ChatGPT to help me fix these issues.
+*
+*/
